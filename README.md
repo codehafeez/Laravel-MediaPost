@@ -14,8 +14,13 @@ php artisan serve
 
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/Laravel-LargeAndResizeImageUpload/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/Laravel-LargeAndResizeImageUpload/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-05.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-06.png)
+![](https://raw.githubusercontent.com/codehafeez/Laravel-MediaPost/main/Screenshots/Output-07.png)
 
 
 ## 🔗 www.codehafeez.com
